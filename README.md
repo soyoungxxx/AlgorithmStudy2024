@@ -41,8 +41,6 @@
 
 Pull Requset는 정해진 Template에 맞춰 작성한다.
 
-https://github.com/soyoungxxx/2024-AlgorithmStudy/assets/100336643/0f0e4839-cf80-48cd-9263-61c46cc1afc9
-
 ### COMMIT
 
 ```
