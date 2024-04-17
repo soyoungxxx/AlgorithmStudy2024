@@ -56,3 +56,5 @@ ex) feat: Add [프로그래머스] 주사위 게임 2
 - Baekjoon / [이름] / [주차] / 문제번호_문제이름.java
 
 ## 문제 순서 및 링크
+[Boj](https://github.com/soyoungxxx/AlgorithmStudy2024/blob/main/src/baekjoon/Boj.md)
+[Pr](https://github.com/soyoungxxx/AlgorithmStudy2024/blob/main/src/programmers/Pr.md)
