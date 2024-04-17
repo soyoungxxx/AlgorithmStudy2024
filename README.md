@@ -1,5 +1,3 @@
-- 스터디 README.md
-
 # 2024-AlgorithmStudy
 
 > 2024 신한DS SW교육 코딩테스트 대비 스터디 기록
@@ -40,6 +38,8 @@
 ### PR
 
 Pull Requset는 정해진 Template에 맞춰 작성한다.
+![image](https://github.com/soyoungxxx/AlgorithmStudy2024/assets/100336643/591abb57-331b-4790-b3ff-59ef32eca357)
+
 
 ### COMMIT
 
