@@ -1,5 +1,3 @@
-- 스터디 README.md
-
 # 2024-AlgorithmStudy
 
 > 2024 신한DS SW교육 코딩테스트 대비 스터디 기록
@@ -40,8 +38,8 @@
 ### PR
 
 Pull Requset는 정해진 Template에 맞춰 작성한다.
+![image](https://github.com/soyoungxxx/AlgorithmStudy2024/assets/100336643/591abb57-331b-4790-b3ff-59ef32eca357)
 
-https://github.com/soyoungxxx/2024-AlgorithmStudy/assets/100336643/0f0e4839-cf80-48cd-9263-61c46cc1afc9
 
 ### COMMIT
 
@@ -56,3 +54,7 @@ ex) feat: Add [프로그래머스] 주사위 게임 2
 
 - Programmars / [이름] / [주차] / 문제이름.java <br>
 - Baekjoon / [이름] / [주차] / 문제번호_문제이름.java
+
+## 문제 순서 및 링크
+[Boj](https://github.com/soyoungxxx/AlgorithmStudy2024/blob/main/src/baekjoon/Boj.md)
+[Pr](https://github.com/soyoungxxx/AlgorithmStudy2024/blob/main/src/programmers/Pr.md)
