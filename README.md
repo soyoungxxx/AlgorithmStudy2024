@@ -40,6 +40,9 @@
 Pull Requset는 정해진 Template에 맞춰 작성한다.
 ![image](https://github.com/soyoungxxx/AlgorithmStudy2024/assets/100336643/591abb57-331b-4790-b3ff-59ef32eca357)
 
+- PR 없이 main으로 바로 push 할 수 없다.
+- merge를 위해 code review와 approve가 필요하다.
+
 
 ### COMMIT
 
